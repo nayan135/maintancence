@@ -3,9 +3,9 @@ import "@/styles/globals.css"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Light Owls | Under Maintenance",
+  title: "Night Owls | Under Maintenance",
   description:
-    "Light Owls is currently under maintenance. We're working hard to improve our services and will be back soon.",
+    "Night Owls is currently under maintenance. We're working hard to improve our services and will be back soon.",
   keywords: ["Night Owls", "Tech Company", "Software Development", "Web Development", "Nepal Tech", "Maintenance","NAYAN135","NayanAcharya","naranbhusal02","KALIKA MANAVGYAN","KALIKA"],
   authors: [
    { name: "Nayan Acharya", url: "https://github.com/" },
